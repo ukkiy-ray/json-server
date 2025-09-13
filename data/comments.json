@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "author": "Alice",
+    "content": "Great post!",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "author": "Bob",
+    "content": "Thanks for sharing!",
+    "date": "2024-01-16"
+  }
+]

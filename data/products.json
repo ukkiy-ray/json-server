@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "category": "Electronics",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Coffee Mug",
+    "price": 12.99,
+    "category": "Home",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "price": 24.99,
+    "category": "Education",
+    "stock": 25
+  }
+]
